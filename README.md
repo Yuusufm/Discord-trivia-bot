@@ -1,11 +1,11 @@
 # Discord Trivia Bot
 
-A Kahoot-style trivia bot for Discord that enables realtime multiplayer quiz competitions with private DM responses and speedbased scoring.
+A Kahoot style trivia bot for Discord that enables realtime multiplayer quiz competitions with private DM responses and speedbased scoring.
 
 ## Features
-- Real-time multiplayer trivia games
+- Real time multiplayer trivia games
 - Private DM answer submission
-- Speed-based scoring system (500-1000 points)
+- Speed based scoring system (500-1000 points)
 - Global leaderboard and player statistics
 - Persistent score tracking
 - Multiple concurrent game sessions
